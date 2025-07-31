@@ -10,4 +10,4 @@ Python // SQL // Pandas // GitHub // Scipy // Numpy // Matplotlib // seaborn // 
 
 ## FIND ME AT:
 
-[Li](https://www.linkedin.com/in/1edgarcia/)
+[LinkedIn](https://www.linkedin.com/in/1edgarcia/)
